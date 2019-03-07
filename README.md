@@ -1,5 +1,4 @@
-🌈 Pattern Wall
-==
+<h1 align="center">🌈<br>Pattern Wall</h1>
 
 Generate positions for pattern in an area.
 
