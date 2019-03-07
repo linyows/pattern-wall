@@ -1,12 +1,8 @@
 <h1 align="center">🌈<br>Pattern Wall</h1>
-
-Generate positions for pattern in an area.
-
-
-<a href="https://www.npmjs.com/package/pattern-wall" title="npm"><img src="http://img.shields.io/npm/v/pattern-wall.svg?style=for-the-badge"></a>
-<a href="https://travis-ci.org/linyows/pattern-wall" title="travis"><img src="https://img.shields.io/travis/linyows/pattern-wall.svg?style=for-the-badge"></a>
-<a href="https://codecov.io/gh/linyows/pattern-wall" title="codecov.io"><img src="https://img.shields.io/codecov/c/gh/linyows/pattern-wall.svg?style=for-the-badge"></a>
-<a href="https://github.com/linyows/pattern-wall/blob/master/LICENSE" title="MIT License"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge"></a>
+<p align="center"><strong>Pattern Wall:</strong> Generate positions for pattern in an area.</p>
+<p align="center">
+<a href="https://www.npmjs.com/package/pattern-wall" title="npm"><img src="http://img.shields.io/npm/v/pattern-wall.svg?style=for-the-badge"></a><a href="https://travis-ci.org/linyows/pattern-wall" title="travis"><img src="https://img.shields.io/travis/linyows/pattern-wall.svg?style=for-the-badge"></a><a href="https://codecov.io/gh/linyows/pattern-wall" title="codecov.io"><img src="https://img.shields.io/codecov/c/gh/linyows/pattern-wall.svg?style=for-the-badge"></a><a href="https://github.com/linyows/pattern-wall/blob/master/LICENSE" title="MIT License"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge"></a>
+</p><br><br>
 
 Installation
 --
