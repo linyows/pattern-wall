@@ -1,4 +1,4 @@
-pattern-wall
+🌈 Pattern Wall
 ==
 
 Generate positions for pattern in an area.
