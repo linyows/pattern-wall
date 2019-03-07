@@ -1,6 +1,6 @@
 {
   "name": "pattern-wall",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate positions for pattern in an area",
   "main": "index.js",
   "types": "lib/pattern-wall.d.ts",
