@@ -5,6 +5,8 @@ node_js:
 script:
   - npm run ci
 after_success:
+  - mkdir coverage
+  - npx nyc report --reporter=json > coverage/coverage.json
   - npx codecov
 notifications:
   slack: linyows:2oeZ2qcLnaMjbnEYodwEXKTr
