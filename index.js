@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = require('./lib/pattern');
+module.exports = require('./lib/pattern-wall');
