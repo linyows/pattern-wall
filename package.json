@@ -43,7 +43,7 @@
     "ci": "npm install && npm run lint && nyc ava -v && npm audit",
     "test": "ava -v",
     "cov": "nyc ava",
-    "cov:report": "nyc ava --reporter=text-lcov > coverage.lcov && codecov",
+    "cov:report": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
     "lint": "tslint -p tsconfig.json -c tslint.json src/**/*.ts",
     "preversion": "npm run clean && npm run build && npm test",
     "postversion": "git push origin --tags",
