@@ -36,6 +36,9 @@ Options
 
 Option | Type   | Default
 ---    | ---    | ---
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/linyows/pattern-wall.svg)](https://greenkeeper.io/)
+
 width  | number | document.body.clientWidth
 height | number | document.body.clientHeight
 size   | number | 200
